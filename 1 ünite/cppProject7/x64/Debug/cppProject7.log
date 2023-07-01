@@ -1,0 +1,3 @@
+﻿  cppProject7.cpp
+C:\Users\mekat\OneDrive\Masaüstü\C ve C++ example\cppProject7\cppProject7.cpp(11,23): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+  cppProject7.vcxproj -> C:\Users\mekat\OneDrive\Masaüstü\C ve C++ example\cppProject7\x64\Debug\cppProject7.exe

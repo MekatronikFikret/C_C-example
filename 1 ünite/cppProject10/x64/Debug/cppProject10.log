@@ -1,0 +1,5 @@
+﻿  cppProject10.c
+C:\Users\mekat\OneDrive\Masaüstü\C ve C++ example\cppProject10\cppProject10.c(96,30): error C2143: sözdizimi hatası: ')' eksik (';' öncesinde)
+C:\Users\mekat\OneDrive\Masaüstü\C ve C++ example\cppProject10\cppProject10.c(96,7): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\mekat\OneDrive\Masaüstü\C ve C++ example\cppProject10\cppProject10.c(97,28): error C2143: sözdizimi hatası: ')' eksik (';' öncesinde)
+C:\Users\mekat\OneDrive\Masaüstü\C ve C++ example\cppProject10\cppProject10.c(97,7): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
