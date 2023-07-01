@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 	setlocale(LC_ALL, "Turkish");
-	/*int sayi1 = 10, sayi3;
+	int sayi1 = 10, sayi3;
 	int sayi2;
 	sayi2 = 20;
 	printf("%d ve %d \n", sayi1, sayi2);
@@ -17,6 +17,6 @@ int main()
 	  printf("%d\n", k1);
 	  char m[60] = "Fikret Çelik";
 	  printf("%s \n", m);
-	   */ 
+	   
 
 }
